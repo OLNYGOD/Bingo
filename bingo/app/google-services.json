@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "353107740204",
+    "firebase_url": "https://hahow-bingo.firebaseio.com",
+    "project_id": "hahow-bingo",
+    "storage_bucket": "hahow-bingo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353107740204:android:b8281a1c33d41509bc3389",
+        "android_client_info": {
+          "package_name": "com.example.bingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353107740204-bh8gd7933oefiak09o92mf59iov02qcd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5bchz35nb9i0rvurl-7tR9CekbRCaaeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353107740204-bh8gd7933oefiak09o92mf59iov02qcd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
